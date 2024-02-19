@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a PhD candidate student supervised by Prof. Tao Yu in smart distribution network planning of college of electric power, [South China University of Technology](https://www2.scut.edu.cn/ep/), China. I will do my research under the supervision of Associate Prof. Jimmy Peng at [National Unverisity of Singapore] from Sept 2024 to Sept 2025.
-
+I am currently a PhD candidate student supervised by Prof. Tao Yu in smart distribution network planning group of college of electric power, [South China University of Technology](https://www2.scut.edu.cn/ep/), China. I will do my research under the supervision of Associate Prof. Jimmy Peng at [National Unverisity of Singapore](https://nus.edu.sg/) from Sept 2024 to Sept 2025.
 
 My research interest focus on Explicit Model-based Reliability Assessment, Digital Planning of Distribution Networks, Integration of Operations Research and Machine Learning Method in Distribution Network.
 
