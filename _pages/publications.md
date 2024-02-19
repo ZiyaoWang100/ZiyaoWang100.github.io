@@ -9,10 +9,11 @@ author_profile: true
 ![EPES](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/0a70357b-c966-4fd8-9f87-9f3888926c5a)   
 
 [2] Ziyao Wang, Lipeng Zhong, Zhenning Pan, Tao Yu, Xingyu Qiu. [“Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-variable-based Reliability Assessment”](https://www.sciencedirect.com/science/article/pii/S0306261922007693). Applied Energy, 2022, 322:119438. (SCI-JCR Q1, Impact Factor: 11.446)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/aca3d698-f0d1-4475-8eab-103eb7dba982)   
+
 
 [3] Ziyao Wang, Luo Qingquan, Xiao Wencong, Wang Yipeng, Yu Tao. “Key Methods for Artificial Intelligence Recognition of Power Grid Substation Wiring Diagrams”. Automation of Electric Power System, 2022. (EI Journal)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/58083832-de37-4c92-99c8-83a1d0bba622)   
+![APEN](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/bce32262-afab-4626-8954-2cc871fba83a)
+
 
 [4] Ziyao Wang, Dan Lin, Guangxuan Zeng, et al. [“A Practical Large-Scale Distribution Network Planning Model Based on Elite Ant-Q”](https://ieeexplore.ieee.org/document/9040513). IEEE ACCESS, 2020. (SCI-JCR Q2, Impact Factor: 3.9)  
 ![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/cdda4113-8493-47ef-80fa-0f3c13cf0f37)   
