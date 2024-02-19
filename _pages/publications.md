@@ -9,6 +9,7 @@ author_profile: true
 ![EPES](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/0a70357b-c966-4fd8-9f87-9f3888926c5a)   
 
 [2] Ziyao Wang, Lipeng Zhong, Zhenning Pan, Tao Yu, Xingyu Qiu. [“Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-variable-based Reliability Assessment”](https://www.sciencedirect.com/science/article/pii/S0306261922007693). Applied Energy, 2022, 322:119438. (SCI-JCR Q1, Impact Factor: 11.446)  
+![APEN1](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/344f42db-19e4-4da0-b62c-0609269b7be8)  
 
 
 [3] Ziyao Wang, Luo Qingquan, Xiao Wencong, Wang Yipeng, Yu Tao. “Key Methods for Artificial Intelligence Recognition of Power Grid Substation Wiring Diagrams”. Automation of Electric Power System, 2022. (EI Journal)  
