@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [1] Ziyao Wang, Dan Lin, Tao Yu, Guangxuan Zeng, Zhenning Pan. [“Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility”](https://www.sciencedirect.com/science/article/pii/S0142061522006251). International Journal of Power and Energy System, 2023, 145:108629. (SCI-JCR Q1, Impact Factor: 5.659)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/4b0394bb-3e03-4663-a512-80d397607bf1)   
+![EPES](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/0a70357b-c966-4fd8-9f87-9f3888926c5a)   
 
 [2] Ziyao Wang, Lipeng Zhong, Zhenning Pan, Tao Yu, Xingyu Qiu. [“Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-variable-based Reliability Assessment”](https://www.sciencedirect.com/science/article/pii/S0306261922007693). Applied Energy, 2022, 322:119438. (SCI-JCR Q1, Impact Factor: 11.446)  
 ![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/aca3d698-f0d1-4475-8eab-103eb7dba982)   
