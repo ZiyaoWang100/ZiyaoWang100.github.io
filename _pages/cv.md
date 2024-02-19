@@ -65,7 +65,7 @@ There are 10 journal papers closely related to my research direction, including 
 [10] Dan Lin, Qianjin Liu, Guangxuan Zeng, Ziyao Wang, Tao Yu. “Elaborate Modeling and Evaluation of Reliability in Information-Physical System of Distribution Network”. Automation of Electric Power System, 2021, 45(03):92-101. (EI Journal)  
 
 * **Granted Patents:**  
-[1] Ziyao Wang, Tao Yu. A Distribution Network Planning Method Considering Topological Constraints of Connection Modes[P]. 2021. CN 110197302 B, 2021 (Granted)
+[1] Ziyao Wang, Tao Yu. A Distribution Network Planning Method Considering Topological Constraints of Connection Modes[P]. 2021. CN 110197302 B, 2021 (Granted)  
 [2] Tang Junxi, Zhang Junxiao, Gao Chong, Cao Huazhen, Wang Ziyao. A Distribution Network Wiring Line Planning Method, Device, and Equipment[P]. 2022. (Granted)
 
   
