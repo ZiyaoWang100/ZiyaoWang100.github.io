@@ -12,14 +12,13 @@ I am currently a PhD candidate student supervised by Prof. Tao Yu in smart distr
 
 My research interest focus on Explicit Model-based Reliability Assessment, Digital Planning of Distribution Networks, Integration of Operations Research and Machine Learning Method in Distribution Network.
 
-Research Interests
 
 Research Interests
 ======
-(1) Explicit Model-based Reliability/Resilience Assessment
-(2) Digital Planning of Distribution Networks
-(3) Operations Research
-(4) Machine Learning
+(1) Explicit Model-based Reliability/Resilience Assessment  
+(2) Digital Planning of Distribution Networks  
+(3) Operations Research  
+(4) Machine Learning/AI
 
 Getting started
 ======
