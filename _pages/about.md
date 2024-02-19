@@ -11,7 +11,7 @@ Welcome to my website! My name is Ziyao Wang. I am currently a PhD candidate stu
 
 I have a strong research interest in Explicit Model-based Reliability Assessment, Digital Planning of Distribution Networks, Integration of Operations Research and Machine Learning/AI in Distribution Network.
 
-As the student leader of the smart distribution network planning group in the lab, I take responsibility for coordinating and monitoring the progress of various technology projects, organizing regular academic exchanges and group meetings, and helping classmates to solve key challenges in their research and projects. Besides, as main R&D personnel, I participated in a series of distribution network planning projects for China Southern Power Grid and State Grid Corporation of China, and developed a digital distribution network planning software system, actively promoted its application.
+As the student leader of the smart distribution network planning group in the lab, I take responsibility for coordinating and monitoring the progress of various technology projects, organizing regular academic communication and group meetings. Besides, as main R&D personnel, I participated in a series of distribution network planning projects for China Southern Power Grid and State Grid Corporation of China, and developed a digital distribution network planning software system, actively promoted its application.
 
 
 Research Interests
