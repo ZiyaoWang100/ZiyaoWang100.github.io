@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, South China University of Technology, 2012
+* Ph.D in Distribution Network Planning, South China University of Technology, 2025 (expected)
+* CSC Ph.D in ML in Distribution Network Planning, National University of Singapore, 2024-2025 (expected)
 
 Work experience
 ======
