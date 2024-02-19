@@ -13,7 +13,6 @@ I have a strong research interest in Explicit Model-based Reliability Assessment
 
 As the student leader of the smart distribution network planning group in the lab, I take responsibility for coordinating and monitoring the progress of various technology projects, organizing regular academic communication and group meetings. Besides, as main R&D personnel, I participated in a series of distribution network planning projects for China Southern Power Grid and State Grid Corporation of China, and developed a digital distribution network planning software system, actively promoted its application.
 
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/7819ce74-1a10-43af-a1a9-75e573d2d404)
 
 
 
