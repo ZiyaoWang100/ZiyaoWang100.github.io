@@ -6,15 +6,20 @@ author_profile: true
 ---
 
 [1] Ziyao Wang, Dan Lin, Tao Yu, Guangxuan Zeng, Zhenning Pan. [“Explicit Reliability Incorporated Switches Planning of Smart Distribution System with High Flexibility”](https://www.sciencedirect.com/science/article/pii/S0142061522006251). International Journal of Power and Energy System, 2023, 145:108629. (SCI-JCR Q1, Impact Factor: 5.659)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/4b0394bb-3e03-4663-a512-80d397607bf1)  
+![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/4b0394bb-3e03-4663-a512-80d397607bf1)   
+
 [2] Ziyao Wang, Lipeng Zhong, Zhenning Pan, Tao Yu, Xingyu Qiu. [“Optimal Double Q AC-DC Hybrid Distribution System Planning with Explicit Topology-variable-based Reliability Assessment”](https://www.sciencedirect.com/science/article/pii/S0306261922007693). Applied Energy, 2022, 322:119438. (SCI-JCR Q1, Impact Factor: 11.446)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/aca3d698-f0d1-4475-8eab-103eb7dba982)  
+![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/aca3d698-f0d1-4475-8eab-103eb7dba982)   
+
 [3] Ziyao Wang, Luo Qingquan, Xiao Wencong, Wang Yipeng, Yu Tao. “Key Methods for Artificial Intelligence Recognition of Power Grid Substation Wiring Diagrams”. Automation of Electric Power System, 2022. (EI Journal)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/58083832-de37-4c92-99c8-83a1d0bba622)
+![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/58083832-de37-4c92-99c8-83a1d0bba622)   
+
 [4] Ziyao Wang, Dan Lin, Guangxuan Zeng, et al. [“A Practical Large-Scale Distribution Network Planning Model Based on Elite Ant-Q”](https://ieeexplore.ieee.org/document/9040513). IEEE ACCESS, 2020. (SCI-JCR Q2, Impact Factor: 3.9)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/cdda4113-8493-47ef-80fa-0f3c13cf0f37)  
+![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/cdda4113-8493-47ef-80fa-0f3c13cf0f37)   
+
 [5] Tao Yu, Ziyao Wang *, et al. “Intelligent Planning Technology and Application of Distribution Network Based on Graph Modularity Fusion Drive”. Automation of Electric Power System, 2023. (EI Journal)  
-![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/e5ec6afd-fcca-45e0-8e10-bcf4d6e9cb56)  
+![image](https://github.com/ZiyaoWang100/ZiyaoWang100.github.io/assets/93502916/e5ec6afd-fcca-45e0-8e10-bcf4d6e9cb56)   
+
 [6] Lipeng Zhong, Ziyao Wang, Yu Tao, et al. “Planning Method for AC-DC Hybrid Distribution Network Based on Reliability Explicit Expression”. Automation of Electric Power System, 2022, 46(19):52-61. (EI Journal)  
 [7] Qiaoyi Ding, Ziyao Wang, et al. “Collaborative Optimization Model for Computational Power and Electrical Resources in Data Center Parks Guided by Multiple Electricity Markets”. Electric Power Automation System, 2023. (EI Journal)  
 [8] Junxi Tang, Ziyao Wang, Junxiao Zhang. “Highly Reliable Multi-Power Source Distribution Network Planning Model Based on Cultural Ant Colony Algorithm”. Power System Protection and Control, 2020. (EI Journal)  
